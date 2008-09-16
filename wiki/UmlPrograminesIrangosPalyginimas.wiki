@@ -3,9 +3,14 @@
 = Įžanga =
 
 Buvo atrinktos keli UML įrankiai.
+
 http://en.wikipedia.org/wiki/List_of_UML_tools
+
 http://www.oose.de/umltools.htm - surinkti toolzai ir palyginti.
+
 http://wwwiti.cs.uni-magdeburg.de/iti_db/research/featureide/ - cia jau padarytas FeatureIDE
+
+http://wiki.eclipse.org/GMF_Development_Guidelines#Extension-Points - cia butu galima pakurti plugina.
 
 
 == Lentelė ==
