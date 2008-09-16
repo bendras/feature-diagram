@@ -1,0 +1,10 @@
+#summary Čia matomas įvairių UML įrankių palyginimas.
+
+= Įžanga =
+
+Buvo atrinktos keli UML įrankiai.
+
+
+== Lentelė ==
+
+|| palaikomu diagramu skaicius ir tipas || diagramu susiejimo galimybe || kitu (ne UML) diagramu palaikymas || ispleciamumo naujomis diagramomis galimybe || atviras/uzdaras kodas || galimybe issaugoti diagramas XML(XMI) formatu || galimybe generatuoti programavimo kalbu koda || suderinamumas su standartais || diagramu issaugojimas paveiksleliu formatu ||
