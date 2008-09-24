@@ -12,6 +12,11 @@ http://wwwiti.cs.uni-magdeburg.de/iti_db/research/featureide/ - cia jau padaryta
 
 http://wiki.eclipse.org/GMF_Development_Guidelines#Extension-Points - cia butu galima pakurti plugina.
 
+== Rasti kiti irankiai, darantys ta pati darba ==
+
+http://wwwiti.cs.uni-magdeburg.de/iti_db/research/featureide/
+http://sourceforge.net/projects/captainfeature/
+http://gsd.uwaterloo.ca/projects/fmp-plugin/
 
 == Lentelė ==
 
