@@ -1,0 +1,19 @@
+# Literarura internete #
+
+Feature-Based Framework Modelling - Copyright 2004 ETH-Zürich
+http://control.ee.ethz.ch/~ceg/fbfm/doc/Overview.html
+
+Program Transformation Wiki / Feature Diagram
+http://www.program-transformation.org/Transform/FeatureDiagram
+
+Program Transformation Wiki / Domain Specific Language Design Requires Feature Descriptions
+http://www.program-transformation.org/Transform/DomainSpecificLanguageDesignRequiresFeatureDescriptions
+
+Feature Model Diagrams in text and HTML
+http://www.boost.org/community/feature_model_diagrams.html
+
+Apple posts iPhone user guide! Here’s feature diagram with arrows, TOC | IP Telephony, VoIP,
+http://blogs.zdnet.com/ip-telephony/?p=1934
+
+Welcome to IEEE Xplore 2.0: Evaluating formal properties of feature diagram languages
+http://www.ieeexplore.ieee.org/xpl/freeabs_all.jsp?isnumber=4543982&arnumber=4543990&count=8&index=7

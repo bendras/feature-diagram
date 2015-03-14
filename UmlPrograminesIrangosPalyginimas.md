@@ -1,0 +1,42 @@
+# Įžanga #
+
+Buvo atrinktos keli UML įrankiai.
+
+http://en.wikipedia.org/wiki/List_of_UML_tools
+
+http://www.oose.de/umltools.htm - surinkti toolzai ir palyginti.
+
+http://wwwiti.cs.uni-magdeburg.de/iti_db/research/featureide/ - cia jau padarytas FeatureIDE
+
+http://wiki.eclipse.org/GMF_Development_Guidelines#Extension-Points - cia butu galima pakurti plugina.
+
+## Rasti kiti irankiai, darantys ta pati darba ##
+
+http://wwwiti.cs.uni-magdeburg.de/iti_db/research/featureide/
+http://sourceforge.net/projects/captainfeature/
+http://gsd.uwaterloo.ca/projects/fmp-plugin/
+
+## Lentelė ##
+
+| palaikomu diagramu skaicius ir tipas | diagramu susiejimo galimybe | kitu (ne UML) diagramu palaikymas | ispleciamumo naujomis diagramomis galimybe | atviras/uzdaras kodas | galimybe issaugoti diagramas XML(XMI) formatu | galimybe generatuoti programavimo kalbu koda | suderinamumas su standartais | diagramu issaugojimas paveiksleliu formatu |
+|:-------------------------------------|:----------------------------|:----------------------------------|:-------------------------------------------|:----------------------|:----------------------------------------------|:---------------------------------------------|:-----------------------------|:-------------------------------------------|
+| SmartDraw UML |  |  |  |  |  |  |  |  |
+| MagicDraw UML |  |  |  |  |  |  |  |  |
+| Visual Paradigm for UML |  |  |  |  |  |  |  |  |
+| Pacestar UML Diagrammer |  |  |  |  |  |  |  |  |
+| Altova UModel |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+
+
+
+| Irankis | Renkuosi/Nesirenku | Kodel? |
+|:--------|:-------------------|:-------|
+| StarUML | Ne |  http://staruml.sourceforge.net/en/development-setting.php|
